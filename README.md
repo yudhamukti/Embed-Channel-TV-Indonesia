@@ -17,7 +17,7 @@ Proyek ini menyediakan daftar URL embed untuk siaran langsung (live stream) dari
 | **Trans7** | [Link](https://jptv.otakutv.my.id/trans7) | ✅ Online | ∞ No Limit | [Link](https://trans7-3mc.pages.dev/) |
 | **Kompas TV** | [Link](https://jptv.otakutv.my.id/kompastv) | ✅ Online | ∞ No Limit | [Link](https://kompas-tv-94q.pages.dev/) |
 | **Metro TV** | [Link](https://jptv.otakutv.my.id/metrotv) | ✅ Online | ∞ No Limit | [Link](https://otakusubs.my.id/metrotv.html) |
-| **tvOne** | [Link](https://jptv.otakutv.my.id/tvone) | ✅ Online | ∞ No Limit | [Link](https://otakusubs.my.id/metrotv.html) |
+| **tvOne** | [Link](https://jptv.otakutv.my.id/tvone) | ✅ Online | ∞ No Limit | [Link](https://otakusubs.my.id/tvone.html) |
 | **RTV** | [Link](https://otakusubs.my.id/rtv.html) | ✅ Online | ∞ No Limit | - |
 | **CNN Indonesia** | [Link](https://otakusubs.my.id/cnn.html) | ✅ Online | ∞ No Limit | - |
 | **CNBC Indonesia** | [Link](https://otakusubs.my.id/cnbc.html) | ✅ Online | ∞ No Limit | - |
