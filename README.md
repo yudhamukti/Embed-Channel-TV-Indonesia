@@ -19,8 +19,8 @@ Proyek ini menyediakan daftar URL embed untuk siaran langsung (live stream) dari
 | **Metro TV** | [Link](https://jptv.otakutv.my.id/metrotv) | ✅ Online | ∞ No Limit | [Link](https://otakusubs.my.id/metrotv.html) |
 | **tvOne** | [Link](https://jptv.otakutv.my.id/tvone) | ✅ Online | ∞ No Limit | [Link](https://otakusubs.my.id/metrotv.html) |
 | **RTV** | [Link](https://otakusubs.my.id/rtv.html) | ✅ Online | ∞ No Limit | - |
-| **CNN Indonesia** | [Link] | Proses | ∞ No Limit | [Link] |
-| **CNBC Indonesia** | [Link] | Proses | ∞ No Limit | [Link] |
+| **CNN Indonesia** | [Link](https://otakusubs.my.id/cnn.html) | Proses | ∞ No Limit | - |
+| **CNBC Indonesia** | [Link](https://otakusubs.my.id/cnbc.html) | Proses | ∞ No Limit | - |
 | **TVRI** | [Link](https://jptv.otakutv.my.id/tvri) | ✅ Online | ∞ No Limit | - |
 | **MDTV** | [Link](https://jptv.otakutv.my.id/mdtv) | ✅ Online | ∞ No Limit | [Link](https://mdtv-d0y.pages.dev/) |
 | **ANTV** | [Link](https://jptv.otakutv.my.id/antv) | ✅ Online | ∞ No Limit | - |
