@@ -4,7 +4,7 @@ Proyek ini menyediakan daftar URL embed untuk siaran langsung (live stream) dari
 
 ## Daftar URL Embed Live Stream
 
-| Nama Channel | URL Live Stream | Status | Keterangan | URL Alternatif |
+| Nama Channel | URL Stream | Status | Keterangan | URL Alternatif |
 | :--- | :--- | :--- | :--- | :--- |
 | **RCTI** | [Link](https://jptv.otakutv.my.id/rcti) | ✅ Online | ∞ No Limit | - |
 | **GTV** | [Link](https://jptv.otakutv.my.id/gtv) | ✅ Online | ∞ No Limit | - |
